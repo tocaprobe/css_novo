@@ -1,0 +1,18 @@
+h1 {color: red;}
+
+* {color: blueviolet;}
+
+#entretenimento h2 {
+color: green;
+}
+#tecnologia h2 {
+    color: brown;
+}
+
+#entretenimento h3 {
+    color: aqua;
+}
+
+#tecnologia h3 {
+    color: black;
+}
